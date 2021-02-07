@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Awaiting for permissions to upload the medical image dataset.
 
 ### Pretrained model
-The pretrained model checkpoints can be found in the checkpoints folder on Google Drive: [chkpts](https://drive.google.com/file/d/10waUwCJ3Ol-Ms1R-R1-xOHl9ODHqR8Qt/view?usp=sharing)
+The pretrained model checkpoints can be found in the checkpoints folder on Google Drive: [ckpt](https://drive.google.com/file/d/10waUwCJ3Ol-Ms1R-R1-xOHl9ODHqR8Qt/view?usp=sharing)
 
 ### Inference
 Sample code for inference using the DFMI-Net model

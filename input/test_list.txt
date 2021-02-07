@@ -1,0 +1,1 @@
+./input/ID1_v0_0040.png ./input/ID1_v1_0040.png

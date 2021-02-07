@@ -1,0 +1,7 @@
+numpy==1.19.1
+opencv-python==4.1.2.30
+pillo==8.1.0
+scikit-image==0.17.2
+torch==1.6.0
+torchvision==0.2.2
+

@@ -8,7 +8,7 @@ Multiview 3-D Echocardiography Image Fusion with Mutual Information Neural Estim
 ### Dataset
 Awaiting for permissions to upload the medical image dataset.
 
-###Pretrainde model
+### Pretrainde model
 The pretrained model checkpoints can be found in the checkpoints folder on Google Drive: [chkpts]()
 
 ### Inference
